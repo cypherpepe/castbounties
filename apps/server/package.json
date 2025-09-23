@@ -1,0 +1,16 @@
+{
+  "name": "castbounties-server",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file=.env src/index.js",
+    "start": "node src/index.js",
+    "migrate": "node src/migrate.js"
+  },
+  "dependencies": {
+    "hono": "^4.6.11",
+    "hono/cors": "^4.6.11",
+    "better-sqlite3": "^9.6.0"
+  }
+}
