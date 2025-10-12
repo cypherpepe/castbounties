@@ -3,9 +3,9 @@ updates:
   - package-ecosystem: "npm"
     directory: "/apps/web"
     schedule:
-      interval: "weekly"
+      interval: "daily"
 
   - package-ecosystem: "npm"
     directory: "/apps/server"
     schedule:
-      interval: "weekly"
+      interval: "daily"
