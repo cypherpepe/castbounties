@@ -31,7 +31,7 @@
     "@zerodev/presets": "5.3.3",
     "@zerodev/sdk": "5.5.4",
     "@zerodev/session-key": "5.5.4",
-    "axios": "^1.6.1",
+    "axios": "^1.13.2",
     "ethers": "^6.10.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
