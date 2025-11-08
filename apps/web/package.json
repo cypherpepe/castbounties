@@ -23,7 +23,7 @@
     "@solana/web3.js": "^1.98.0",
     "@reown/appkit-siwx": "^1.8.13",
     "@reown/appkit-adapter-bitcoin": "^1.8.12",
-    "@walletconnect/sign-client": "2.22.4",
+    "@walletconnect/sign-client": "2.23.0",
     "@walletconnect/types": "2.23.0",
     "@walletconnect/universal-provider": "2.23.0",
     "@walletconnect/utils": "2.23.0",
