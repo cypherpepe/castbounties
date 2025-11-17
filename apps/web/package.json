@@ -21,7 +21,7 @@
     "@reown/appkit-adapter-ethers": "^1.8.13",
     "@reown/appkit-adapter-solana": "^1.8.8",
     "@solana/web3.js": "^1.98.0",
-    "@reown/appkit-siwx": "^1.8.13",
+    "@reown/appkit-siwx": "^1.8.14",
     "@reown/appkit-adapter-bitcoin": "^1.8.13",
     "@walletconnect/sign-client": "2.23.0",
     "@walletconnect/types": "2.23.0",
