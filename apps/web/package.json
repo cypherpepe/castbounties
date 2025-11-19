@@ -36,7 +36,15 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "viem": "^2.38.3",
-    "wagmi": "^2.19.2"
+    "wagmi": "^2.19.2",
+    "@reown/walletkit": "^1.2.3",
+    "@lens-chain/sdk": "^1.0.3",
+    "@lens-chain/storage-client": "^1.0.5",
+    "@lens-protocol/client": "0.0.0-canary-20250624084811",
+    "@lens-protocol/metadata": "^2.1.0",
+    "@lens-protocol/react": "0.0.0-canary-20250624084811",
+    "@lens-protocol/react-web": "^1.0.3",
+    "@lens-protocol/wagmi": "^1.0.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
