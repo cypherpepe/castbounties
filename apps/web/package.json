@@ -40,7 +40,7 @@
     "@reown/walletkit": "^1.2.3",
     "@lens-chain/sdk": "^1.0.3",
     "@lens-chain/storage-client": "^1.0.5",
-    "@lens-protocol/client": "0.0.0-canary-20250624084811",
+    "@lens-protocol/client": "0.3.0",
     "@lens-protocol/metadata": "^2.1.0",
     "@lens-protocol/react": "2.3.2",
     "@lens-protocol/react-web": "^2.3.2",
