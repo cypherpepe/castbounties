@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "hono": "^4.10.7",
-    "better-sqlite3": "^12.4.5"
+    "better-sqlite3": "^12.4.6"
   }
 }
