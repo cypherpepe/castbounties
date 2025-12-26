@@ -9,7 +9,7 @@
     "migrate": "node src/migrate.js"
   },
   "dependencies": {
-    "hono": "^4.10.7",
+    "hono": "^4.11.3",
     "better-sqlite3": "^12.5.0"
   }
 }
